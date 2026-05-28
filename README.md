@@ -19,7 +19,7 @@ The project demonstrates search techniques, intelligent planning systems, knowle
 # Repository Structure
 
 ```text
-AI-Programming-Assignment/
+ai_assignment_5/
 │
 ├── README.md
 ├── requirements.txt
