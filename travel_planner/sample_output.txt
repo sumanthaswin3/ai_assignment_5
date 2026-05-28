@@ -1,0 +1,46 @@
+AI BASED TRAVEL PLANNER
+
+Enter city: Hyderabad
+Budget level (low/medium/high): medium
+Preferred food: South Indian
+
+Recommended Places:
+
+* Charminar
+* Golconda Fort
+* Ramoji Film City
+
+Recommended Restaurants:
+
+* Paradise
+* Chutneys
+
+Estimated Budget: 5000
+
+Suggested Travel Plan:
+
+Day 1:
+
+* Visit Charminar
+* Explore nearby local markets
+* Dinner at Paradise
+
+Day 2:
+
+* Visit Golconda Fort
+* Enjoy local sightseeing
+* Lunch at Chutneys
+
+Day 3:
+
+* Visit Ramoji Film City
+* Photography and entertainment activities
+
+Trip Summary:
+
+* City Selected: Hyderabad
+* Food Preference: South Indian
+* Budget Category: Medium
+* Estimated Total Cost: 5000
+
+Travel Plan Generated Successfully.
