@@ -1,0 +1,5 @@
+rdflib
+pgmpy
+networkx
+matplotlib
+numpy
